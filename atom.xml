@@ -4,7 +4,7 @@
   <title><![CDATA[孟庆宇的技术博客]]></title>
   <link href="http://mengqingyu.github.io/atom.xml" rel="self"/>
   <link href="http://mengqingyu.github.io/"/>
-  <updated>2014-04-02T13:45:08+08:00</updated>
+  <updated>2014-04-02T13:45:58+08:00</updated>
   <id>http://mengqingyu.github.io/</id>
   <author>
     <name><![CDATA[孟庆宇]]></name>
@@ -12,23 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[myTitle]]></title>
-    <link href="http://mengqingyu.github.io/blog/mytitle.html/"/>
-    <updated>2014-04-02T10:23:23+08:00</updated>
-    <id>http://mengqingyu.github.io/blog/mytitle</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First]]></title>
-    <link href="http://mengqingyu.github.io/blog/first.html/"/>
-    <updated>2014-04-02T09:08:48+08:00</updated>
-    <id>http://mengqingyu.github.io/blog/first</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
