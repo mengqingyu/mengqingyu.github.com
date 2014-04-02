@@ -4,7 +4,7 @@
   <title><![CDATA[孟庆宇的技术博客]]></title>
   <link href="http://mengqingyu.github.io/atom.xml" rel="self"/>
   <link href="http://mengqingyu.github.io/"/>
-  <updated>2014-04-02T13:55:07+08:00</updated>
+  <updated>2014-04-02T13:59:06+08:00</updated>
   <id>http://mengqingyu.github.io/</id>
   <author>
     <name><![CDATA[孟庆宇]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[发表一篇中文blog]]></title>
-    <link href="http://mengqingyu.github.io/blog/fa-biao-%5B%3F%5D-pian-zhong-wen-blog.html/"/>
-    <updated>2014-04-02T13:47:11+08:00</updated>
-    <id>http://mengqingyu.github.io/blog/fa-biao-[?]-pian-zhong-wen-blog</id>
-    <content type="html"><![CDATA[<p>测试blog</p>
-
-<p>大家好</p>
-]]></content>
-  </entry>
   
 </feed>
